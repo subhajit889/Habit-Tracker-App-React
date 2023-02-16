@@ -2,7 +2,9 @@ Habit Tracker React App ✔✔✔
 
 A habit tracker app project in which user can add habit and track all the previous six days status .
 
-Tech Stack Used👀👀👀
+You can view this app by click link:- https://habit-tracker-app-react.vercel.app/
+
+Tech Used👀👀👀
 
 
 ReactJs
